@@ -110,3 +110,6 @@ logs/
 # Environment variables and configs
 *.env
 config.json
+
+# Ignore asad.txt file
+asad.txt
